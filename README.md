@@ -5,8 +5,6 @@
 Clone this and set up required packages
 
 ``` sh
-git clone https://gitlab.jsc.fz-juelich.de/hater1/ca1-pyramidal-with-ampa.git
-cd ca1-pyramidal-with-ampa
 python -mvenv .venv
 source .venv/bin/activate
 pip install ipython jupyter pandas matplotlib seaborn numpy
