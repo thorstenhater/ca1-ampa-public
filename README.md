@@ -8,4 +8,8 @@ source .venv/bin/activate
 pip install ipython jupyter polars matplotlib seaborn numpy arbor==0.11
 bash run.bash
 ```
+Based on 
 
+https://github.com/OpenSourceBrain/L5bPyrCellHayEtAl2011
+
+and ported to Arbor.
